@@ -6,9 +6,9 @@ Shadows, waving plants, waving water, clouds, great performance etc. this shader
 -------------------------------------------------------------------------
 
 screenshots:
-![afbeelding](https://user-images.githubusercontent.com/107622623/174063378-40c22952-6a14-43b8-a6d4-c2830917d2f1.png)
-![afbeelding](https://user-images.githubusercontent.com/107622623/174063425-5f8c0f32-1fcd-45f3-bf46-bda37ef55fee.png)
-![afbeelding](https://user-images.githubusercontent.com/107622623/174063439-58fbbfde-9282-48b5-8c77-39b73349f137.png)
+![afbeelding](https://user-images.githubusercontent.com/107622623/174084644-fe5c6c82-6be5-4d4d-810b-17ab5563991d.png)
+![afbeelding](https://user-images.githubusercontent.com/107622623/174085083-94129532-642c-480c-822e-8072345d1212.png)
+![afbeelding](https://user-images.githubusercontent.com/107622623/174085757-d20b8b8e-0012-4936-888d-e5be60ef6a4a.png)
 
 -------------------------------------------------------------------------
 
